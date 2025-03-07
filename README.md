@@ -1,2 +1,1 @@
-# dotfiles
-My UNIX configuration files.
+These are my dotfiles. They contain the configuration of my multiple machines.
