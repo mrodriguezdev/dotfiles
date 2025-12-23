@@ -1,0 +1,19 @@
+# IDEs / Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Bootstrap backups
+*.bak.*
+
+# Cache
+.cache/
+
+# Logs
+*.log
