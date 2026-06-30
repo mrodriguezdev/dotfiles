@@ -1,6 +1,8 @@
+# Oh My Zsh
 export ZSH="$HOME/.oh-my-zsh"
 ZSH_THEME="powerlevel10k/powerlevel10k"
 
+# Plugins
 plugins=(
   git
   zsh-autosuggestions
@@ -8,4 +10,4 @@ plugins=(
   zsh-completions
 )
 
-source $ZSH/oh-my-zsh.sh
+source "$ZSH/oh-my-zsh.sh"
